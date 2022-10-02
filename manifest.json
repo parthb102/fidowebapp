@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Fido Website",
+  "name": "Fido - Digital pets for the metaverse",
   "icons": [
     {
       "src": "favicon.ico",
